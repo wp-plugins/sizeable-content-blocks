@@ -6,7 +6,7 @@ Requires at least: 3.5.1
 Tested up to: 3.5.1
 Stable tag: trunk
 
-Extremely flexible and easy to use general custom post type.
+An extremely flexible and easy to use general custom post type.
 
 == Description ==
 
@@ -25,6 +25,10 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 Please visit http://github.com/szbl/szbl-content-blocks for documentation, FAQs and support.
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Commit to update readme.txt and WP repository UI (short description).
 
 = 1.0 =
 
