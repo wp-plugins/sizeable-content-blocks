@@ -6,13 +6,13 @@ Requires at least: 3.5.1
 Tested up to: 3.5.1
 Stable tag: trunk
 
-Sizeable Content Blocks gives you a reusable & extendable custom post type in plugin form than can be used for a variety of purposes throughout your site.
-
-Great when used with Sizeable Content Tags (http://wordpress.org/extend/plugins/szbl-content-tags).
+Extremely flexible and easy to use general custom post type.
 
 == Description ==
 
 Content Blocks gives you a reusable & extendable custom post type in plugin form than can be used for a variety of purposes throughout your site.
+
+Great when used with Sizeable Content Tags (http://wordpress.org/extend/plugins/szbl-content-tags/).
 
 For more information on Content Blocks, visit the project on GitHub: http://github.com/szbl/szbl-content-blocks
 
