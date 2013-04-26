@@ -14,7 +14,7 @@ An extremely flexible and easy to use general custom post type.
 
 Content Blocks gives you a reusable & extendable custom post type in plugin form than can be used for a variety of purposes throughout your site.
 
-Great when used with Sizeable Content Tags (http://wordpress.org/extend/plugins/szbl-content-tags/).
+Great when used with Sizeable Content Tags (http://wordpress.org/extend/plugins/sizeable-content-tags/).
 
 For more information on Content Blocks, visit the project on GitHub: http://github.com/szbl/szbl-content-blocks
 
