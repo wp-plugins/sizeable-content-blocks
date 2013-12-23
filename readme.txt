@@ -28,7 +28,7 @@ Please visit http://github.com/szbl/szbl-content-blocks for documentation, FAQs 
 
 == Changelog ==
 
-= 1.0.2 =
+= 1.0.3 =
 
 * Update to 3.8 admin UI vector icons.
 

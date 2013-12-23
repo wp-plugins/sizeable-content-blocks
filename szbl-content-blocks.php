@@ -4,7 +4,7 @@ Plugin Name: Sizeable Content Blocks
 Author: Sizeable Labs
 Author URI: http://sizeablelabs.com
 Description: Basic content blocks using custom post types with wrapper functions to pull these blocks for inclustion in any general theme/plugin output. Great for home page callouts, WYSIWYG HTML widgets and any form of theme integration.
-Version: 1.0.2
+Version: 1.0.3
 License: GPLv2 or later
 */
 
