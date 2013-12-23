@@ -3,7 +3,7 @@ Contributors: theandystratton, szbl
 Donate link: http://sizeablelabs.com/donate
 Tags: flexible content, content management, html content
 Requires at least: 3.5.1
-Tested up to: 3.5.1
+Tested up to: 3.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,6 +27,10 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 Please visit http://github.com/szbl/szbl-content-blocks for documentation, FAQs and support.
 
 == Changelog ==
+
+= 1.0.2 =
+
+* Update to 3.8 admin UI vector icons.
 
 = 1.0.1 =
 
