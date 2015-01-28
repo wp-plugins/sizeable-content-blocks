@@ -4,7 +4,7 @@ Plugin Name: Sizeable Content Blocks
 Author: Sizeable Labs
 Author URI: http://sizeablelabs.com
 Description: Basic content blocks using custom post types with wrapper functions to pull these blocks for inclustion in any general theme/plugin output. Great for home page callouts, WYSIWYG HTML widgets and any form of theme integration.
-Version: 1.0.4
+Version: 1.0.5
 License: GPLv2 or later
 */
 
@@ -136,7 +136,7 @@ class Szbl_Content_Blocks
 			'capability_type' => 'post',
 			'hierarchical' => true,
 			'can_export' => true,
-			'supports' => array( 'title', 'editor', 'thumbnail', 'excerpt', 'page-attributes', 'custom-fields' ),
+			'supports' => array( 'title', 'editor', 'thumbnail', 'excerpt', 'page-attributes', 'custom-fields', 'revisions' ),
 			'register_meta_box_cb' => array( $this, 'add_meta_boxes' ),
 			'has_archive' => false,
 			'rewrite' => array()

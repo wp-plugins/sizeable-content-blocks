@@ -28,6 +28,10 @@ Please visit http://github.com/szbl/szbl-content-blocks for documentation, FAQs 
 
 == Changelog ==
 
+= 1.0.5 =
+
+* Add revisions and menu icon update.
+
 = 1.0.4 =
 
 * Update to 3.8 admin UI vector icons.
